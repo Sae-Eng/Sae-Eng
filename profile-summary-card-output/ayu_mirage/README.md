@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Sae-Eng/Sae-Eng/main/profile-summary-card-output/ayu_mirage/4-productive-time.svg)
-```
-
-    
